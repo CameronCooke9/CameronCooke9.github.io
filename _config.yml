@@ -29,4 +29,4 @@ Artifact 3 is a simple math program that displays a multiplication table based o
 
 Artifact 4 is a sales program that takes it’s input from a txt file, formats it and then can show a complete sales list, the amount of a specific item sold, or display a visual histogram of the days sales.
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
