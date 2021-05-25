@@ -1,3 +1,15 @@
+I am relatively new to the world of coding and software, so I'm still learning my way. I’ve always had a good business sense and that comes through in my work. I would personally say my strengths in this industry are in the project management area. I am extremely comfortable in my ability to work with a project from start to finish, not only working with a singular element along the design process.  I am most comfortable with the groundwork element of a project, then developing a launch plan and carrying it out is probably my next strongest skills. 
+
+
+I have limited experience in working in a team environment in the software field, but I was always good at working with a group in other elements of my life. In my experience solid teamwork is the most important element of software development. Explaining design and function in terms everyone can understand has always been one of my strongest skills, I’ve always had very good communication and leadership skills, I’ve captained pretty much all of the organized sports teams I’ve played on. This is another reason why I find my ability to work in a team environment a strong suit of mine.
+
+
+I have limited experience with writing algorithms but have been quite successful with the algorithms I have worked with. My only experience in databases is working with MongoDB. I had a few problems early on, but after a few weeks it seemed like a straightforward skill that I was quite comfortable working with. 
+
+
+Secure coding is something that has been stressed to me in every course I’ve done. I agree with the sentiment that it’s the most important aspect of any project. If you can’t secure your work, there’s no way any client would ever trust you with their information and projects.
+
+
 ARTIFACTS
 
 
