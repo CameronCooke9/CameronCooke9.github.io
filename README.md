@@ -10,6 +10,7 @@ I have limited experience with writing algorithms but have been quite successful
 Secure coding is something that has been stressed to me in every course I’ve done. I agree with the sentiment that it’s the most important aspect of any project. If you can’t secure your work, there’s no way any client would ever trust you with their information and projects.
 
 
+ARTIFACTS
 
 
 The artifacts I’ve chosen for this portfolio are a collection of my most recent completed projects, all these artifacts come from the last 6-8 months. Both of my first two artifacts are written in python as I feel it’s my most comfortable language. Even though I have experience with many of languages, including but not limited to, Java, C, HTML, Assembly, SQL. Artifacts three and four are visual studio projects including both python and C++.  
